@@ -32,7 +32,7 @@ export default function Home({ posts }: Props) {
             is a place to learn and read about tech.
           </h1>
           <h2>
-            Learn about trend topics with thousands of readers.
+            Learn about trending topics with thousands of readers.
           </h2>
         </div>
      
