@@ -2,6 +2,7 @@
 
 This project is created using ReactJs, NextJs and Sanity CMS.
 
+The content is managed dynamically by using Sanity CMS. Sanity provides a very efficient schema and easy to use studio for personal and professional projects. 
 
 The live link for this project is [LINK](https://maestro-sanity-blog.vercel.app/)
 
