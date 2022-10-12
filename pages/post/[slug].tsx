@@ -159,7 +159,7 @@ function Post({post}: Props){
       }
 
       {/* comment */}
-      {/* <div className='flex flex-col p-10 my-10 max-w-2xl mx-auto shadow-yellow-500 shadow'>
+       <div className='flex flex-col p-10 my-10 max-w-2xl mx-auto shadow-yellow-500 shadow'>
           <h3 className='text-4xl pb-2'>Comments</h3>
           <hr className='pb-2' />
          
@@ -171,7 +171,7 @@ function Post({post}: Props){
            </div>
          ))}
 
-      </div> */}
+      </div> 
 
 
     </main>;
