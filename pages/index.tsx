@@ -27,13 +27,12 @@ export default function Home({ posts }: Props) {
         <div className='px-10 space-y-5'>
           <h1 className="max-w-xl font-serif text-6xl">
             <span className="underline decoration-black decoration-4">
-              Medium
+              Maestro
             </span> {" "}
-            is a place to write, read, and connect
+            is a place to learn and read about tech.
           </h1>
           <h2>
-            It's easy and free to post your thinking on any topic and connect
-            with millions of readers.
+            Learn about trend topics with thousands of readers.
           </h2>
         </div>
      
