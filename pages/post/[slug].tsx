@@ -159,20 +159,7 @@ function Post({post}: Props){
       }
 
       {/* comment */}
-      {/*THis is comment section*/}
-       <div className='flex flex-col p-10 my-10 max-w-2xl mx-auto shadow-yellow-500 shadow'>
-          <h3 className='text-4xl pb-2'>Comments</h3>
-          <hr className='pb-2' />
-         
-         {post.comments.map((comment) =>(
-           <div key={comment._id}>
-             <p>
-             <span className='text-yellow-500'> {comment.name} : </span>  {comment.comment}
-             </p>
-           </div>
-         ))}
-
-      </div> 
+        
 
 
     </main>;
